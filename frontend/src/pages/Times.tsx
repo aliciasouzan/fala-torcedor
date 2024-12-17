@@ -200,7 +200,7 @@ function Times() {
                 <div className="modal">
                     <div className="modal-content">
                         <span className="close" onClick={() => setIsDeleteModalOpen(false)}>&times;</span>
-                        <h2>Confirmar Deleção</h2>
+                        <h2>Deseja deletar?</h2>
                         <p>Tem certeza que deseja deletar este time?</p>
                         <button onClick={handleDeleteSubmit}>Sim</button>
                         <button onClick={() => setIsDeleteModalOpen(false)}>Não</button>
