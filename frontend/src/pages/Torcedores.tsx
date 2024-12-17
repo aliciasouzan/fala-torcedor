@@ -137,6 +137,7 @@ function Torcedores() {
                         <th>Data de Nascimento</th>
                         <th>Time Favorito</th>
                         <th>Ações</th>
+                        <th></th>
                     </tr>
                 </thead>
                 <tbody>
